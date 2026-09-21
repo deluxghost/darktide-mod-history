@@ -1,0 +1,7 @@
+# Generated files
+output/
+.venv/
+__pycache__/
+*.py[cod]
+
+.env

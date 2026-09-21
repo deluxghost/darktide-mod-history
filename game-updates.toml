@@ -1,0 +1,90 @@
+# Curated update names and timestamps, checked against official Steam release posts.
+# Split patch-note articles and same-day DLC announcements are not separate updates.
+
+[[updates]]
+name = "Darktide Launch"
+released_at = 2022-11-30T17:58:11Z
+
+[[updates]]
+name = "The Signal Update"
+released_at = 2022-12-15T14:29:24Z
+
+[[updates]]
+name = "Blessings of the Omnissiah Update"
+released_at = 2023-02-22T10:05:07Z
+
+[[updates]]
+name = "Tools of War Update"
+released_at = 2023-03-23T09:13:54Z
+
+[[updates]]
+name = "Garbs and Penances Update"
+released_at = 2023-05-02T12:09:18Z
+
+[[updates]]
+name = "Rejects Unite Update"
+released_at = 2023-05-29T09:45:24Z
+
+[[updates]]
+name = "Crossplay Update"
+released_at = 2023-06-28T09:41:21Z
+
+[[updates]]
+name = "Into the Maelstrom Update"
+released_at = 2023-08-08T07:58:34Z
+
+[[updates]]
+name = "Class Overhaul Update"
+released_at = 2023-10-03T15:48:12Z
+
+[[updates]]
+name = "The Traitor Curse Part 1 Update"
+released_at = 2023-11-14T10:23:17Z
+
+[[updates]]
+name = "The Traitor Curse Part 2 Update"
+released_at = 2023-12-05T13:53:48Z
+
+[[updates]]
+name = "The Orthus Offensive Update"
+released_at = 2023-12-13T11:09:00Z
+
+[[updates]]
+name = "Path of Redemption Update"
+released_at = 2024-04-16T12:12:09Z
+
+[[updates]]
+name = "Secrets of the Machine God Update"
+released_at = 2024-06-25T12:25:55Z
+
+[[updates]]
+name = "Unlocked and Loaded Update"
+released_at = 2024-09-25T11:33:21Z
+
+[[updates]]
+name = "Grim Protocols Update"
+released_at = 2024-12-03T10:24:40Z
+
+[[updates]]
+name = "Nightmares & Visions Update"
+released_at = 2025-03-25T12:09:20Z
+
+[[updates]]
+name = "Battle for Tertium Update"
+released_at = 2025-06-23T08:06:33Z
+
+[[updates]]
+name = "Bound by Duty Update"
+released_at = 2025-09-23T09:11:29Z
+
+[[updates]]
+name = "No Man's Land Update"
+released_at = 2025-12-02T09:27:16Z
+
+[[updates]]
+name = "Beyond the Hive Update"
+released_at = 2026-03-17T10:37:31Z
+
+[[updates]]
+name = "Skitarii Update"
+released_at = 2026-06-23T14:01:17Z

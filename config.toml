@@ -1,0 +1,67 @@
+search_query = "extension:mod \"new_mod\" \"mod_script\" \"scripts/mods/\" NOT \"Vermintide Mod Framework\" NOT \"VMF\""
+per_page = 100
+search_partition_limit = 500
+search_start_date = "2023-01-01"
+output_dir = "output"
+gource_title = "Darktide Mods History on GitHub"
+video_start_date = "2022-11-16"
+seconds_per_day = 0.22
+outro_seconds = 25
+resolution = "1920x1080"
+caption_duration = 4
+caption_size = 32
+caption_colour = "ffdd80"
+font_size = 28
+dir_font_size = 18
+user_font_size = 28
+video_fps = 60
+
+excluded_owners = [
+    "CNLenoli",
+    "curlyLasagna",
+    "qvex123321",
+    "Ben-John933",
+    "spacewid",
+]
+
+excluded_repositories = [
+    "xsSplater/redbeardt-Darktide-Mods",
+    "chronicmods/mymods",
+    "igromanru/DarkTide-SpecialESP",
+    "danreeves/darkti.de",
+    "SyuanTsai/Warhammer-40-000-DARKTIDE-Mods",
+    "deathbeam/darktide-mods-mine",
+    "hummat/hadrons-blessing",
+    "m6jones/bloop-rinse-apps",
+]
+
+[[author_bindings]]
+name = "Ben"
+email = "Lai"
+github_login = "Wobin"
+
+[[author_bindings]]
+name = "alxl"
+email = "alex.cavasso@gmail.com"
+github_login = "ItsAlxl"
+
+[[author_bindings]]
+name = "Backup158"
+email = "beekoop158@gmail.com"
+github_login = "Backup158"
+
+[[author_bindings]]
+name = "OvenProofMars"
+email = "="
+github_login = "OvenProofMars"
+
+[[author_bindings]]
+name = "Jerrome Yong"
+email = "jerrome.yong@silverpond.com.au"
+github_login = "TotallyNotBiased"
+
+[bot_detection]
+github_types = ["Bot"]
+git_name_suffixes = ["[bot]"]
+bot_names = []
+human_names = []

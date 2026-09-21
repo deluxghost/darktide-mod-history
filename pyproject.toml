@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "darktide-mod-history"
+version = "0.1.0"
+description = "Discover Darktide mods and render their Git history with Gource."
+requires-python = ">=3.11"
+
+[project.scripts]
+darktide-mod-history = "darktide_mod_history.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
